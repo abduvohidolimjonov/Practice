@@ -17,4 +17,4 @@
 let a=prompt();
 for(let i=1;a<=i;i++){
     console.log(a*a);
-// }salom
+}
